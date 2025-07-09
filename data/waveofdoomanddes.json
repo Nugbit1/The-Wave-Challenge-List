@@ -1,5 +1,5 @@
 {
-    "id": 122578392,
+    "id": 122578782,
     "name": "Wave of doom and des",
     "author": "Vinki",
     "creators": ["Vinki"],
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "Nugbit",
+            "link": "https://www.youtube.com/watch?v=3iliKPEqKcw",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
