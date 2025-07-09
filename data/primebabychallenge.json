@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "alex_jr2011",
+            "link": "https://youtu.be/gumDCY04xsg",
+            "percent": 100,
+            "hz": 144
+        },
+                        {
+            "user": "Vinki",
+            "link": "https://youtu.be/Lv3nwPD5GnY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
