@@ -1,0 +1,18 @@
+{
+    "id": 122636094,
+    "name": "wave level",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://youtu.be/M7B7TLWIvcE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                        {
+            "user": "Nugbit",
+            "link": "https://www.youtube.com/watch?v=HVxTeettMAc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
