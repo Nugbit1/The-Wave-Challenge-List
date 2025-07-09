@@ -114,6 +114,10 @@ export default {
                     <p>
                         Levels must be under 30 seconds for it to qualify as a challenge
                     </p>
+                        Levels must be made for the list, they can't be made 2 months before the list was made *cough* *cough* vscplusplus *cough*
+                    </p>
+                        No secret ways / swag routes
+                    </p>
                 </div>
             </div>
         </main>
