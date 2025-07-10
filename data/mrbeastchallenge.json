@@ -19,6 +19,18 @@
             "link": "https://youtu.be/M80hiDUM148",
             "percent": 100,
             "hz": 144
+        },
+                {            
+            "user": "sorrow",
+            "link": "https://www.youtube.com/watch?v=6u0NyymGJwY",
+            "percent": 100,
+            "hz": 360
+        },
+                {            
+            "user": "zedit",
+            "link": "https://youtu.be/x7vDFI_51HA",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
