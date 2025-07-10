@@ -1,0 +1,18 @@
+{
+    "id": 122694698,
+    "name": "colon4",
+    "author": "Vinki",
+    "creators": ["Vinki"],
+    "verifier": "Vinki",
+    "verification": "https://youtu.be/oZ2Jrn-uArk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Nugbit",
+            "link": "https://youtu.be/X9lyfXuIsAo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

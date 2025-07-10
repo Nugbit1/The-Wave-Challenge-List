@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=cBCLnbv7le0",
             "percent": 100,
             "hz": 360
-        }
+        },
+             {
+            "user": "Vinki",
+           "link": "https://youtu.be/oZ2Jrn-uArk",
+            "percent": 100,
+            "hz": 240
+            }
     ]
 }
