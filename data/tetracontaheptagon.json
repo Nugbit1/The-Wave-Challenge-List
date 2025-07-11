@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+                        {            
+            "user": "sorrow",
+            "link": "https://www.youtube.com/watch?v=_8P6mTqaLhw",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
