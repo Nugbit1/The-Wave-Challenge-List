@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=D5fICBCmLwY",
             "percent": 100,
             "hz": 360
+        },
+                {            
+            "user": "zedit",
+            "link": "https://www.youtube.com/watch?v=Qx_CnYeuLys",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
