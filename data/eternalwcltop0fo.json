@@ -1,0 +1,24 @@
+{
+    "id": 122814493,
+    "name": "eternal wcl top 0 fo",
+    "author": "alex_jr2011",
+    "creators": ["alex_jr2011"],
+    "verifier": "alex_jr2011",
+    "verification": "https://youtu.be/OXsyS6QFMX8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                     {
+            "user": "Vinki",
+           "link": "https://youtu.be/25IV5jNg61M",
+            "percent": 100,
+            "hz": 240
+            },
+            {
+            "user": "Nugbit",
+            "link": "https://youtu.be/FPn75SJL--c",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
