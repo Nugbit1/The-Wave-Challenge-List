@@ -1,0 +1,18 @@
+{
+    "id": 122854351,
+    "name": "Vsc WCL ver",
+    "author": "Vinki",
+    "creators": ["Vinki"],
+    "verifier": "Vinki",
+    "verification": "https://youtu.be/jMa4xEQEpcw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                        {
+            "user": "Nugbit",
+            "link": "https://youtu.be/INHM8RWowD4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
