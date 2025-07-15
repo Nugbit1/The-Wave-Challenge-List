@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=_8P6mTqaLhw",
             "percent": 100,
             "hz": 360
-        }
+        },
+                     {
+            "user": "Vinki",
+           "link": "https://youtu.be/w-RuXQ6QIms",
+            "percent": 100,
+            "hz": 240
+            }
     ]
 }
